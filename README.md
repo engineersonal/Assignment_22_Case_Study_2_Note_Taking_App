@@ -1,0 +1,2 @@
+# Assignment_22_Case_Study_2_Note_Taking_App
+Assignment_22_Case_Study_2_Note_Taking_App: This assignment helps to understand CRUD operations using POSTMAN
